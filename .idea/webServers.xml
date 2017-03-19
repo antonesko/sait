@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20fd1b56-8d98-4ff0-a500-23cfda1383a2" name="dev4488" url="http://hosting-panel.php-academy.kiev.ua">
+        <fileTransfer host="hosting-panel.php-academy.kiev.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

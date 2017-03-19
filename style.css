@@ -1,0 +1,48 @@
+ .container{
+     padding: 50px 100px 50px 100px;
+     border: 3px solid black;
+     margin: 50px 350px 50px;
+ }
+ .text{
+     padding: 0 80px 0 0px;
+ }
+ .img {float: left;
+    border: 1px;
+}
+ .p1 {font-size: 18px;
+     font-weight: bold;
+     font-family: Calibri;
+     text-align: center;
+ }
+.p2 {
+    font-family: Segoe UI;
+    text-align: left;
+    padding: 70px 0 40px 0;
+}
+.p3 {
+     font-family: Calibri;
+     font-style: italic;
+     text-align: left;
+ }
+ .p4 {
+     padding: 0 0 0 37px
+ }
+ .p6 {
+     padding: 0 0 0 37px
+ }
+ .p7 {
+     padding: 0 0 0 20px
+ }
+  .hr1 {
+     height: 1px;
+      background: black;
+      width: 80%;
+ }
+ .hr2 {
+    height: 1px;
+     background: black;
+    width: 90%;
+}
+ h1 {
+     text-align: center;
+ }
